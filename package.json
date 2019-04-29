@@ -1,0 +1,12 @@
+{
+  "name": "shopincQL",
+  "version": "1.0.0",
+  "description": "My first graphQL node application",
+  "main": "index.js",
+  "repository": "https://github.com/Duncanian/shopincQL.git",
+  "author": "Ian Duncan <ianduncan08@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  }
+}
